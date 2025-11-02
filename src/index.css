@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  min-height: 100vh;
+  box-sizing: border-box;
+  background-color: #0B2434;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main{
+  height: 320px;
+  width: 320px;
+  border-radius: 10px;
+  background-color: #F5F5F5;
+}
