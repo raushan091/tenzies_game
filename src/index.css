@@ -33,6 +33,7 @@ main{
   font-weight: bold;
   height: 2.5rem;
   width: 2.5rem;
+  border-radius: 10px;
   background-color: #FFFFFF;
   color: #2B283A;
   border-style: none;
@@ -49,6 +50,16 @@ main{
   border-radius: 5px;
   margin-top: 25px;
   border-style: none;
+  cursor: pointer;
+}
+#new-game-button{
+  width: 92px;
+  height: 36px;
+  background-color: green;
+  border-radius: 5px;
+  margin-top: 25px;
+  border-style: none;
+  cursor: pointer;
 }
 h1{
   font-size: 1.6rem;
